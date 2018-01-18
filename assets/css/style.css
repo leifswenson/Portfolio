@@ -23,6 +23,10 @@ p, a, label {
  
 }
 
+.card-title {
+	text-decoration: none;
+}
+
 .navbar-nav {
     
 }
