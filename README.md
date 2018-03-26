@@ -1,5 +1,5 @@
-# Bootstrap-Portfolio
+# Leif Swenson
 
-Homework #2 1of2
+### [Portfolio](https://leifswenson.github.io/Portfolio/about)
 
-Due 11/29/17
+
