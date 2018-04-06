@@ -1,3 +1,4 @@
+/*================= CSS for old portfolio ======================*/
 
 body {
 	background-image: url("../../assets/images/background.png");
@@ -44,3 +45,70 @@ p, a, label {
     background-color: #666666;
     color: white;
 }
+
+
+/*===================== CSS for new profile - work in progress ==========================*/
+
+/* Sections */
+section {
+  padding: 4em 0em 4em 0em;
+}
+
+/* Navigation Bar */
+#mainNav {
+  background: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
+/* Jumbotron */
+
+.jumbotron-heading {
+  font-weight: bold;
+  color: white;
+  font-size: 3rem
+}
+
+.lead {
+  color: white;
+  font-size: 2rem
+}
+
+.jumbotron {
+  position: relative;
+  overflow: hidden;
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+
+
+
+/* footer */
+footer {
+  padding: 2em 0em 2em 0em;
+}
+
+
+
+/*this is the custom css from bootstrap*/
+
+
+
+.jumbotron {
+  margin-bottom: 0;
+  background-color: #fff;
+  background-image: url("../../assets/images/headding-mt.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+}
+
+
