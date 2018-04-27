@@ -1,50 +1,50 @@
 /*================= CSS for old portfolio ======================*/
 
-body {
-	background-image: url("../../assets/images/background.png");
-}
+/*body {*/
+/*	background-image: url("../../assets/images/background.png");*/
+/*}*/
 
-h1, h2, h3, h4, h5 {
-	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
-	color: #4aaaa5;
-}
+/*h1, h2, h3, h4, h5 {*/
+/*	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';*/
+/*	color: #4aaaa5;*/
+/*}*/
 
-p, a, label {
-	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
-	color: #777777;
-	line-height: 25px
-}
+/*p, a, label {*/
+/*	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';*/
+/*	color: #777777;*/
+/*	line-height: 25px*/
+/*}*/
 
 
 
 /* Nav bar*/
 
-.navbar-brand {
+/*.navbar-brand {*/
     
  
-}
+/*}*/
 
-.card-title {
-	text-decoration: none;
-}
+/*.card-title {*/
+/*	text-decoration: none;*/
+/*}*/
 
-.navbar-nav {
+/*.navbar-nav {*/
     
-}
+/*}*/
 
 
 /* social icons*/
 
-.icon {
-    height: 50px;
-}
+/*.icon {*/
+/*    height: 50px;*/
+/*}*/
 
 /* footer */
 
-.footer {
-    background-color: #666666;
-    color: white;
-}
+/*.footer {*/
+/*    background-color: #666666;*/
+/*    color: white;*/
+/*}*/
 
 
 /*===================== CSS for new profile - work in progress ==========================*/
@@ -67,7 +67,7 @@ section {
 .jumbotron-heading {
   font-weight: bold;
   color: white;
-  font-size: 3rem
+  font-size: 4rem
 }
 
 .lead {
@@ -87,8 +87,36 @@ section {
   background-size: cover;
 }
 
+/* Services */
+
+#services {
+  line-height: 2;
+}
+
+/* About */
+#about {
+  background-color: rgb(69, 73, 85);
+  color: white;
+}
+
+#about p {
+  line-height: 1.6;
+
+}
+
+/* Portfolio */
 
 
+
+/* Contact */
+#contact {
+  background-color: rgb(69, 73, 85);
+  color: white;
+}
+
+#contact #message {
+  height: 145px;
+}
 
 /* footer */
 footer {
