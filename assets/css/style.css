@@ -1,60 +1,20 @@
-/*================= CSS for old portfolio ======================*/
-
-/*body {*/
-/*	background-image: url("../../assets/images/background.png");*/
-/*}*/
-
-/*h1, h2, h3, h4, h5 {*/
-/*	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';*/
-/*	color: #4aaaa5;*/
-/*}*/
-
-/*p, a, label {*/
-/*	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';*/
-/*	color: #777777;*/
-/*	line-height: 25px*/
-/*}*/
+/* Global */
+/*============================================================================*/
 
 
 
-/* Nav bar*/
-
-/*.navbar-brand {*/
-    
- 
-/*}*/
-
-/*.card-title {*/
-/*	text-decoration: none;*/
-/*}*/
-
-/*.navbar-nav {*/
-    
-/*}*/
-
-
-/* social icons*/
-
-/*.icon {*/
-/*    height: 50px;*/
-/*}*/
-
-/* footer */
-
-/*.footer {*/
-/*    background-color: #666666;*/
-/*    color: white;*/
-/*}*/
-
-
-/*===================== CSS for new profile ==========================*/
 
 /* Sections */
+/*============================================================================*/
+
 section {
   padding: 4em 0em 4em 0em;
 }
 
+
 /* Navigation Bar */
+/*============================================================================*/
+
 #mainNav {
   background: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.7);
@@ -63,6 +23,8 @@ section {
 
 
 /* Jumbotron */
+/*============================================================================*/
+
 
 .jumbotron-heading {
   font-weight: bold;
@@ -80,14 +42,18 @@ section {
   overflow: hidden;
   padding-top: 15rem;
   padding-bottom: 15rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-image: url("../../assets/images/headding-mt.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
   background-size: cover;
 }
 
+
+
 /* Services */
+/*============================================================================*/
+
 
 #services {
   line-height: 2;
@@ -104,11 +70,17 @@ section {
 
 }
 
+
+
 /* Portfolio */
+/*============================================================================*/
+
 
 
 
 /* Contact */
+/*============================================================================*/
+
 #contact {
   background-color: rgb(69, 73, 85);
   color: white;
@@ -118,25 +90,13 @@ section {
   height: 145px;
 }
 
+
+
 /* footer */
+/*============================================================================*/
+
 footer {
   padding: 2em 0em 2em 0em;
-}
-
-
-
-/*this is the custom css from bootstrap*/
-
-
-
-.jumbotron {
-  margin-bottom: 0;
-  background-color: #fff;
-  background-image: url("../../assets/images/headding-mt.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center;
-  background-size: cover;
 }
 
 
