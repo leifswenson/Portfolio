@@ -1,5 +1,5 @@
 # Leif Swenson
 
-### [Portfolio](https://leifswenson.github.io/Portfolio/index)
+### [leifswenson.com](leifswenson.com)
 
 
