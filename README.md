@@ -1,5 +1,5 @@
 # Leif Swenson
 
-### [leifswenson.com](leifswenson.com)
+### [leifswenson.com](https://leifswenson.com/)
 
 
